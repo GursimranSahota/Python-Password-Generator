@@ -1,1 +1,1 @@
-# Python-Password-Generator
+The Random Password Generator is a Python project that generates strong and secure passwords for users. By allowing users to specify the desired length and character types, such as uppercase letters, lowercase letters, numbers, and symbols, the program creates a random password that meets their criteria. This project provides a convenient and efficient way to enhance online security by generating unique passwords tailored to individual preferences.
